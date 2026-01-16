@@ -1,9 +1,9 @@
-# 👋 Hi, I'm twozinGoat
+# Hi, I'm twozinGoat💯
 
 ### ⚡ About Me
-- 🛠️ Independent Developer focused on the **Android** ecosystem and **Magisk** modules.
-- 🚀 Specialized in system optimizations, performance tweaks, and UI/UX enhancements.
-- 🇧🇷 Based in Brazil, building solutions for the global Android community.
+- 🛠️ beginner Developer focused on the **Android** and **Magisk** modules.
+- 🚀  always trying system optimizations, performance tweaks, and UI/UX enhancements.
+- 🇧🇷 Based in Brazil, getting started in the Android community.
 
 ### 📁 Featured Project
 - **[TralhasSU](https://github.com/twozinGoat/TralhasSU):** My main Magisk module. Featuring iOS 17 emojis and system-wide fluidity improvements.
