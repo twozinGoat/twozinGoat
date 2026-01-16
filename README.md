@@ -14,7 +14,7 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📬 Get in Touch
-- **Telegram:** [@twozinGoat](https://t.me/twozinGoat)
+- **Telegram:** [twozinGoat](https://t.me/twozinGoat)
 - **Telegram channel:** [twozinChannel](https://t.me/twozinChannel)
 - **GitHub:** Feel free to open an *Issue* or a *Pull Request* in my repositories!
 
