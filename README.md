@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm twozinGoat
 
-<!--
-**twozinGoat/twozinGoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚡ About Me
+- 🛠️ Independent Developer focused on the **Android** ecosystem and **Magisk** modules.
+- 🚀 Specialized in system optimizations, performance tweaks, and UI/UX enhancements.
+- 🇧🇷 Based in Brazil, building solutions for the global Android community.
 
-Here are some ideas to get you started:
+### 📁 Featured Project
+- **[TralhasSU](https://github.com/twozinGoat/TralhasSU):** My main Magisk module. Featuring iOS 17 emojis and system-wide fluidity improvements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Toolbox
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📬 Get in Touch
+- **Telegram:** [@twozinGoat](https://t.me/twozinGoat)
+- **GitHub:** Feel free to open an *Issue* or a *Pull Request* in my repositories!
+
+---
+*"Always optimizing, testing, and simplifying the Android experience."*
