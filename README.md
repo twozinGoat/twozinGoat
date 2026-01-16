@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=╰•Hi, I'm twozinGoat•╯"> 
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=<╰•Hi, I'm twozinGoat•╯">
 
 # Hi, I'm twozinGoat💯
 
