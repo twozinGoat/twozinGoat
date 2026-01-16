@@ -6,7 +6,7 @@
 - 🇧🇷 Based in Brazil, getting started in the Android community.
 
 ### 📁 Featured Project
-- **[TralhasSU](https://github.com/twozinGoat/TralhasSU):** My main Magisk module. Featuring iOS 17 emojis and system-wide fluidity improvements.
+- **[TralhasSU](https://github.com/twozinGoat/TralhasSU):** My main Magisk module. Featuring iOS emojis and system-wide fluidity improvements.
 
 ### 🛠️ My Toolbox
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
