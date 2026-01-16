@@ -15,6 +15,7 @@
 
 ### 📬 Get in Touch
 - **Telegram:** [@twozinGoat](https://t.me/twozinGoat)
+- **Telegram channel:** [twozinChannel](https://t.me/twozinChannel)
 - **GitHub:** Feel free to open an *Issue* or a *Pull Request* in my repositories!
 
 ---
