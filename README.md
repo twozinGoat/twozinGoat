@@ -5,9 +5,6 @@
 - 🚀  always trying system optimizations, performance tweaks, and UI/UX enhancements.
 - 🇧🇷 Based in Brazil, getting started in the Android community.
 
-### 📁 Featured Project
-- **[TralhasSU](https://github.com/twozinGoat/TralhasSU):** My main Magisk module. Featuring iOS emojis and system-wide fluidity improvements.
-
 ### 🛠️ My Toolbox
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
