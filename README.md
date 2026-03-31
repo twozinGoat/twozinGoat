@@ -7,8 +7,6 @@
 
 ### 🛠️ My Toolbox
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📬 Get in Touch
 - **Telegram:** [twozinGoat](https://t.me/twozinGoat)
